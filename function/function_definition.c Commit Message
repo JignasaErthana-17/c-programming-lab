@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+void display()
+{
+    printf("This Is Function Definition");
+}
+
+int main()
+{
+    return 0;
+}
